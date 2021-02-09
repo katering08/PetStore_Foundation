@@ -1,0 +1,47 @@
+
+.top-bar-left, .top-bar-right{
+    font-weight: bold;
+    font-size:large;
+    
+}
+
+.card-divider{
+    height: 6.5rem;
+    background-color: rgb(201, 213, 245);
+    align-items: center;
+    justify-content: center;
+}
+
+.grid-container-fluid, .grid-container{
+    margin-top: 3rem;
+}
+
+.size{
+    font-size: 14px;
+}
+
+.color{
+    color:red;
+}
+
+.media-object-section{
+    width: 60rem;
+    height: 12rem;
+    text-align: center;
+}
+
+.container-fluid{
+    height: 5rem;
+    background-color: rgb(3, 58, 58);
+    color: white;
+    margin-top: 1rem;
+    padding-top: 1.5rem;
+    text-align: center;
+}
+
+hr{
+    border: 0; 
+    border-top: 2px solid #999; 
+    border-bottom: 2px solid #333; 
+    height:0;
+}
